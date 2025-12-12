@@ -1,0 +1,4 @@
+enum YsOrNo {
+    Yes,
+    No,
+}
